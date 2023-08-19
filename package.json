@@ -1,0 +1,30 @@
+{
+  "name": "noderepo",
+  "version": "1.0.0",
+  "description": "uso de node y axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woxie/node.git"
+  },
+  "keywords": [
+    "node",
+    "axios"
+  ],
+  "author": "jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woxie/node/issues"
+  },
+  "homepage": "https://github.com/woxie/node#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.1"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
